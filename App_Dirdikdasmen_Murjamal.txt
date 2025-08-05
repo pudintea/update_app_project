@@ -1,0 +1,11 @@
+APP DIRDIKDASMEN
+=================
+
+- 05 Agustus 2025 : Export data Profile Sekolah ke MS Excel.
+- 05 Agustus 2025 : Penambahan Jumlah Tata Usaha dari 4 ke 6 Orang.
+- 05 Agustus 2025 : Penambahan Email Sekolah dan Telpon Sekolah.
+
+
+
+
+-- BY Pudin Saepudin : pudin.alazhar@gmail.com
