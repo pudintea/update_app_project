@@ -1,9 +1,27 @@
 APP DIRDIKDASMEN
 =================
+[06 Agustus 2025]
+- [selesai] Perbaikan pada list database pegawai
+- [selesai] Perbaikan pada tampilan list pegawai di halaman dirdikdasmen
+- [selesai] Perbaikan pada tampilan list pegawai di halaman sekolah
+- [selesai] Menambahkan Jumlah murid dan rombel secara vertikal pada bagian Rombel di halaman dirdikdasmen
+- [selesai] Menambahkan Jumlah murid dan rombel secara vertikal pada bagian Rombel di halaman sekolah
 
-- 05 Agustus 2025 : Export data Profile Sekolah ke MS Excel.
-- 05 Agustus 2025 : Penambahan Jumlah Tata Usaha dari 4 ke 6 Orang.
-- 05 Agustus 2025 : Penambahan Email Sekolah dan Telpon Sekolah.
+[06 Agustus 2025]
+- [selesai] Penambahan grafik sekolah yang sudah mengisi data murid dan yang belum dalam bentuk persentase.
+- [selesai] Penambahan grafik sekolah yang sudah mengisi data pegawai dan yang belum dalam bentuk persentase.
+
+[05 Agustus 2025]
+- [selesai] Export data Profile Sekolah ke MS Excel.
+- [selesai] Penambahan Jumlah Tata Usaha dari 4 ke 6 Orang.
+- [selesai] Penambahan Email Sekolah dan Telpon Sekolah.
+
+[30 Juli 2025]
+- [selesai] Penambahan module keluar di halaman dirdikdasmen.
+- [selesai] Penambahan module surat masuk di halaman sekolah.
+
+[24 Juli 2025]
+- [selesai] Penambahan module export ke file excel di halaman Murid TK, SD, SMP, SMA.
 
 
 
