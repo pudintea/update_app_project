@@ -4,6 +4,8 @@ APP DIRDIKDASMEN
 [11 Agustus 2025]
 - Memperbaiki kode pdf yang di upload di hosting dan database tidak sesuai format.
 - Memperbaiki kode, agar kejadian tidak terulang lagi dalam proses upload pdf.
+- Membuka fitur upload untuk data diatas 10mb, sementara.
+- Penambahan fitur Upload File pada menu Informasi.
 
 [07 Agustus 2025]
 - [selesai] Perbaikan pada list database pegawai
