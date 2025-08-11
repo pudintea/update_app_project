@@ -1,11 +1,18 @@
 APP DIRDIKDASMEN
 =================
+
+[11 Agustus 2025]
+- Memperbaiki kode pdf yang di upload di hosting dan database tidak sesuai format.
+- Memperbaiki kode, agar kejadian tidak terulang lagi dalam proses upload pdf.
+
 [07 Agustus 2025]
 - [selesai] Perbaikan pada list database pegawai
 - [selesai] Perbaikan pada tampilan list pegawai di halaman dirdikdasmen
 - [selesai] Perbaikan pada tampilan list pegawai di halaman sekolah
 - [selesai] Menambahkan Jumlah murid dan rombel secara vertikal pada bagian Rombel di halaman dirdikdasmen
 - [selesai] Menambahkan Jumlah murid dan rombel secara vertikal pada bagian Rombel di halaman sekolah
+- [selesai] Edit data status kepegawaian menjadi (tetap, Tidak tetap) dan mengubah semua isian yang ada di database yang sudah di input.
+- [selesai] Menambahkan data D1 di kolom pegawai.
 
 [06 Agustus 2025]
 - [selesai] Penambahan grafik sekolah yang sudah mengisi data murid dan yang belum dalam bentuk persentase.
