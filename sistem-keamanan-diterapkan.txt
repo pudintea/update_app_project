@@ -1,0 +1,36 @@
+Aksess website https.
+HTTPS (Hypertext Transfer Protocol Secure) untuk mengenkripsi data yang dikirim antara pengguna dan server, melindungi informasi sensitif dari pencurian atau penyadapan oleh pihak ketiga. 
+
+Dns Sec
+DNSSEC (Domain Name System Security Extensions) adalah serangkaian ekstensi keamanan yang ditambahkan ke Sistem Nama Domain (DNS) untuk melindungi dari serangan seperti spoofing dan cache poisoning. DNSSEC bekerja dengan menambahkan tanda tangan kriptografi ke catatan DNS, memungkinkan pemecah masalah (resolver) untuk memverifikasi keaslian data yang diterima. 
+
+Cloudflare
+Cloudflare adalah sebuah perusahaan teknologi yang menyediakan berbagai layanan, termasuk keamanan, untuk meningkatkan kinerja dan keamanan situs web serta aplikasi. Cloudflare bertindak sebagai jaringan global yang menyalurkan konten dan melindungi dari berbagai ancaman siber seperti serangan DDoS, malware, dan serangan lainnya.
+
+Waf cloudflare
+WAF (Web Application Firewall) Cloudflare adalah layanan keamanan berbasis cloud yang dirancang untuk melindungi situs web dan aplikasi web dari berbagai ancaman siber. WAF bertindak sebagai penghalang antara lalu lintas internet yang masuk dan server web, memfilter dan memblokir lalu lintas berbahaya sebelum mencapai situs web. Dengan kata lain, WAF Cloudflare bertugas mencegah serangan seperti injeksi SQL, skrip lintas situs (XSS), dan serangan DDoS.
+
+Tuuneling cloudflare.
+Cloudflare Tunnel adalah layanan yang disediakan Cloudflare untuk membuat koneksi aman antara server lokal Anda dengan jaringan Cloudflare, tanpa perlu membuka port firewall atau menggunakan alamat IP publik. Ini memungkinkan Anda untuk mengekspos aplikasi web atau layanan lainnya yang berjalan di server lokal Anda ke internet, dengan keamanan yang ditingkatkan melalui jaringan global Cloudflare
+
+Recaptcha Google v3
+reCAPTCHA v3 adalah layanan keamanan dari Google yang dirancang untuk melindungi situs web dari aktivitas otomatis (bot) dan spam, tanpa mengganggu pengalaman pengguna. Berbeda dengan reCAPTCHA v2 yang mengharuskan pengguna menyelesaikan tantangan visual, reCAPTCHA v3 beroperasi di latar belakang dengan menganalisis interaksi pengguna untuk memberikan skor risiko. Skor ini menunjukkan kemungkinan aktivitas bot, dan situs web dapat mengambil tindakan yang sesuai, seperti menampilkan tantangan atau memblokir akses.
+
+Proxy reverse
+Reverse proxy adalah server yang bertindak sebagai perantara antara klien (seperti browser web) dan server web. Fungsinya untuk meningkatkan keamanan dengan menyembunyikan server web sebenarnya dari akses langsung, serta meningkatkan kinerja aplikasi, skalabilitas aplikasi web, melindungi dari serangan DDoS (Distributed Denial of Service) dan membatasi akses ke web server backend secara langsung.
+
+Pihole
+Pi-hole adalah perangkat lunak (open-source) yang bertindak sebagai server DNS dan pemblokir iklan di jaringan. Dengan menginstal Pi-hole, Anda dapat memblokir iklan, pelacak, dan situs web berbahaya untuk semua perangkat di jaringan Anda tanpa perlu menginstal perangkat lunak tambahan di setiap perangkat. Pi-hole bekerja dengan menyaring kueri DNS (Domain Name System) dan mencegah perangkat di jaringan Anda terhubung ke domain yang tidak diinginkan.
+
+DOH Cloudflare
+DNS over HTTPS (DoH) adalah protokol yang mengenkripsi permintaan DNS (Domain Name System) melalui koneksi HTTPS, yang pada dasarnya menyembunyikan permintaan DNS dari pihak ketiga seperti penyedia layanan internet (ISP) atau pengintai jaringan. Cloudflare, sebagai penyedia layanan keamanan dan kinerja jaringan, menawarkan DoH sebagai salah satu fitur keamanannya. Dengan mengaktifkan DoH, pengguna dapat meningkatkan privasi dan keamanan saat menjelajahi internet karena permintaan DNS mereka tidak dapat dilihat atau dimanipulasi oleh pihak lain.
+
+System leases di jaringan internet.
+System "static-only" pada DHCP (Dynamic Host Configuration Protocol) untuk membatasi perangkat yang terkoneksi via DHCP Server hanya perangkat yang sudah ditentukan saja, sehingga tidak akan ada perangkat yang bisa terkoneksi tanpa se izin si penyedia internet, untuk bisa menerapkan system ini harus mengaktifkan DHCP server dan setiap perangkat yang diperbolehkan menggunakan aksess internet di set make-static, pastikan perangkat client juga jangan menggunakan mac-address acak.
+
+
+
+
+
+
+==== END ===
